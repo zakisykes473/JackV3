@@ -1,12 +1,12 @@
 {
   "ownerNumber": ["6283834558105@s.whatsapp.net"],
-  "ownerName": "Neo Botz",
-  "BotName": "Neo Botz",
-  "Footer": "© Created By Lexxy Official",
-  "email": "andra0628@gmail.com",
-  "website": "https://github.com/Lexxy24",
+  "ownerName": "Jack",
+  "BotName": "Jack Botz",
+  "Footer": "© Created By Jack Official",
+  "email": "ahmadzami.ixc@gmail.com",
+  "website": "https://github.com/zakisykes473",
   "region": "indonesia",
-  "pathimg": "./media/neobot.jpg",
+  "pathimg": "./neobot.jpg",
   "limitCount": 40,
   "gcount": {
 	"prem": 9999,
