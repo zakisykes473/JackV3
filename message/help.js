@@ -10,9 +10,9 @@ return `
 exports.txtDonate = (prefix) => {
 return `
 ▷_*DONASI BOT*_
- _- DANA : 08xxxxxxxx_
- _- OVO : 08xxxxxxxx_
- _- GOPAY : 08xxxxxxxx_
- _- QRIS : https://bit.ly/3yy0qoZ_
+ _- DANA : 081324359485_
+ _- OVO : 081324359485_
+ _- GOPAY : 081324359485_
+ _- Shopeepay : 081324359485_
 `
 }
