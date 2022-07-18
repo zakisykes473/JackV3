@@ -1,3 +1,32 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@zakisykes473 
+Lexxy24
+/
+NEOBOTV3
+Public
+Code
+Issues
+Pull requests
+1
+Actions
+Projects
+Wiki
+Security
+Insights
+NEOBOTV3/index.js /
+@Lexxy24
+Lexxy24 Update index.js
+Latest commit 0345ace 15 days ago
+ History
+ 1 contributor
+726 lines (666 sloc)  28.6 KB
+
 // Created By Lexxy Official
 // Base Ori Dika Ardnt
 
@@ -58,7 +87,7 @@ console.log(color(figlet.textSync('NEOBOTV3', {
 		whitespaceBreak: true
         }), 'yellow'))
         
-console.log(color('\nCreated By Jack Official ','silver'))
+console.log(color('\nCreated By Lexxy Official ','silver'))
 console.log(color('NeobotzMD : Version 3.0.0\n','silver'))
         
     const neobot = neobotConnect({
@@ -724,3 +753,18 @@ fs.watchFile(file, () => {
 	delete require.cache[file]
 	require(file)
 })
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+You have no unread notifications
